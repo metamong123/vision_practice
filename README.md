@@ -1,4 +1,4 @@
 # vision_practice
 
 # Index
-0. 00_autoever_sw_school
+0. 00_sw_school
